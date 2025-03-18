@@ -98,7 +98,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## ❤️ **Support & Contact**
 For any questions or issues, feel free to reach out:
-📧 **Email:** patilmandar2003@example.com  
+📧 **Email:** patilmandar2003@gmail.com  
 🐙 **GitHub:** [patilmandar2003](https://github.com/patilmandar2003)  
 
 ---
